@@ -1,5 +1,5 @@
 {
-  peliculas = [
+  "peliculas": [
     {
       "titulo": "Blade Runner",
       "director": "Ridley Scott",
